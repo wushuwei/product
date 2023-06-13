@@ -83,7 +83,7 @@ class ProductsList extends State<MyHomePage> {
     Product(
       name: 'Product 2',
       description: 'Description for product 2',
-      price: '\$20.00',
+      price: '\$30.00',
       imageUrl:
       'https://picsum.photos/250?image=9',
     ),
