@@ -54,7 +54,7 @@ dev_dependencies:
 # The following section is specific to Flutter packages.
 flutter:
   # The following line specifies the entry point for your application.
-  main: lib/main.dart
+#  main: lib/main.dart
 
   # The following line ensures that the Material Icons font is
   # included with your application, so that you can use the icons in
